@@ -55,8 +55,26 @@ Thank you for considering contributing to the Laravel framework! The contributio
 
 ## Installation / Instalasi
 
+Jalankan perintah berikut untuk menginstal dependensi php
 ```
 composer install
+```
+
+Jalankan perintah berikut untuk mengatur environment variable
+```
+cp .env.example .env
+```
+Pastikan Anda telah membuat database baru di MySQL dan silakan sesuaikan file .env dengan database Anda. Jalankan perintah berikut untuk membuat key untuk web app Anda
+```
+php artisan key:generate
+```
+Jalankan perintah berikut untuk membuat skema database
+```
+php artisan migrate
+```
+Terakhir, jalankan perintah berikut untuk menyalakan web server bawaan laravel
+```
+php artisan serve
 ```
 
 ## Security Vulnerabilities
