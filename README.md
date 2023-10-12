@@ -82,7 +82,7 @@ karena yang sempurna hanyalah kita yang dulu pernah bersama.</b>
 <p align="center">
 <img src="https://8limbmuaythai.com/wp-content/uploads/2015/11/7-kata-kata-bijak-dalam-kehidupan.jpg" width="700" >
 </p>
-<b></b>Hidup sendiri tanpan kekasih <br>
+<b>Hidup sendiri tanpan kekasih <br>
 Cukup sekian dan terimakasih</b>
 
 ## Security Vulnerabilities
