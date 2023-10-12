@@ -80,8 +80,7 @@ php artisan serve
 <b>Maaf jika kode kurang sempurna <br>
 karena yang sempurna hanyalah kita yang dulu pernah bersama.</b>
 <p align="center">
-<img src="https://8limbmuaythai.com/wp-content/uploads/2015/11/7-kata-kata-bijak-dalam-kehidupan.jpg" width="500" >
-<img src="https://cdn-brilio-net.akamaized.net/news/2021/10/27/215979/1586492-1000xauto-kata-kata-sad-boy.jpg" width="378" >
+<img src="https://8limbmuaythai.com/wp-content/uploads/2015/11/7-kata-kata-bijak-dalam-kehidupan.jpg" width="700" >
 </p>
 <b></b>Hidup sendiri tanpan kekasih <br>
 Cukup sekian dan terimakasih</b>
