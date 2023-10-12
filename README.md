@@ -10,6 +10,10 @@
 
 ## Installation / Instalasi
 
+Pertama, Clone dulu Reporsitory 
+```
+git clone https://github.com/Thirty21/laravel.git
+```
 Jalankan perintah berikut untuk menginstal dependensi php
 ```
 composer install
