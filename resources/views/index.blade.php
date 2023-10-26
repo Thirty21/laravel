@@ -10,5 +10,6 @@
     <h1>LATHAIN DASAR LARAVEL</h1>
     <h1>Nama : Ahdi Khalida Fathir</h1>
     <a href="{{url('jurusan')}}">masuk</a>
+    <a href="{{url('mapel')}}">mapel</a>
 </body>
 </html>
